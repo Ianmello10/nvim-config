@@ -11,6 +11,7 @@ local options = {
     json = { "prettierd" },
     markdown = { "prettierd" },
     yaml = { "prettierd" },
+    prisma = { "prismaFmt" },
   },
 
   format_on_save = {
